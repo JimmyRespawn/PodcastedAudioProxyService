@@ -1,0 +1,23 @@
+{
+  "name": "podcastedapi",
+  "version": "0.1.0",
+  "description": "A simple node api service for Musicloud.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/glitch-hello-node"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "podcasted"
+  ]
+}
